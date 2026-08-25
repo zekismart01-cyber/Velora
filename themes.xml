@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Velora" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#274437</item>
+        <item name="android:navigationBarColor">#F3F1EB</item>
+        <item name="android:statusBarColor">#17211B</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
